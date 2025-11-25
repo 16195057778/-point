@@ -1,0 +1,5 @@
+{
+  "name": "Viewpoint - 视频观点深度分析",
+  "description": "基于Gemini AI的YouTube长视频观点提取与深度分析工具，一键生成中文摘要与核心论点报告。",
+  "requestFramePermissions": []
+}
